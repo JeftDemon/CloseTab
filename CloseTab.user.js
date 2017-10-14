@@ -3,7 +3,7 @@
 // @namespace    https://github.com/JeftDemon/CloseTab
 // @version      1.3
 // @description  Close tabs when the barload is complete.
-// @author       Mokiller
+// @author       JeftDemon
 // @match        http://bitcofarm.com/modules/*
 // @match        http://bitcomine.net/modules/*
 // @match        http://ethero.net/modules/*
