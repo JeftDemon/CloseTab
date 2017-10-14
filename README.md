@@ -11,6 +11,6 @@ This is a script for close tabs of sites Bitcofarm, Bitcomine and Ethero when th
 * For Opera [TamperMonkey](https://addons.opera.com/pt-br/extensions/details/tampermonkey-beta).
 
 2 - Install CloseTab script.
-* [CloseTab](https://github.com/Mokiller/CloseTab/raw/master/CloseTab.user.js).
+* [CloseTab](https://github.com/JeftDemon/CloseTab/raw/master/CloseTab.user.js).
 
 Enjoy it.
