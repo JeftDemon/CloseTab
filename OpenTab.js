@@ -17,7 +17,7 @@
                         var rank = totalLinks - myLinks.length;
                         var url = $(myLinks.pop()).attr("href");
                         console.log(rank + "de" + totalLinks + " :: clicakado em " + url);
-                        var myWindowADS;
+                        var myWindowADS = window.open(url);
                         /*if (!myWindowADS)
                             {
                                 myWindowADS = window.open(url);
